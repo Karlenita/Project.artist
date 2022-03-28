@@ -1,0 +1,111 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+
+}
+ul {
+    list-style-type: none;
+}
+
+iframe {
+height: 300px;
+width: 500px;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(187, 79, 79);
+    height: 300px;
+}
+
+.item1 {
+    display: flex;
+    height: 220px;
+    width: 185px;
+    border: 20px solid;
+    margin: 30px;
+    border-color: black;
+    align-self: flex-start;
+    flex-shrink: 0;
+}
+
+.item2 {
+    border: 0px 20px;
+    flex-grow: 0;
+}
+
+.item3 {
+    display: flex;
+    height: 200px;
+    width: 210px;
+    border: 20px solid;
+    margin: 10px;
+    border-color: white;
+    align-self: flex-end;
+    flex-shrink: 0;
+}
+.navbar {
+    background: #9e1017;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    height: 10px;
+    padding-right: 10px;
+
+}
+
+}
+.navbar {
+    font-size: large;
+    font-weight: bold;
+}
+.navbar .bigcontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.navbar ul {
+    display: flex;
+}
+.navbar ul li {
+    margin-left: 16px;
+}
+.bigcontainer {
+    border: bold double 20px;
+    background-color: #aa676a;
+}
+.header {
+    font-family: 'Acme', sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+} 
+
+.table {
+    border: black solid 5px;
+    margin: 0 300;
+    padding: 40;
+}
+
+tr {
+    text-align: justify;
+}
+
+.combo  {
+    background-color: #e9767b;
+}
+
+.form { 
+    font: bold;
+    text-shadow: 10px;
+}
