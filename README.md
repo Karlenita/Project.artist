@@ -1,1 +1,2 @@
-# Project.artist
+# Project.artist  
+Karlene, this is very good work. I like how you set up the page as well as included style for your different sections. The link you added in the nav bar are functional and connect to content that applies to the subject of your page. Your code is also very clean and laid out well. Good work!
